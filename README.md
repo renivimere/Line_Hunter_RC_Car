@@ -1,9 +1,9 @@
 # Line Hunter RC Car
-[Best Project 2022](https://www.facebook.com/SVNCKH/posts/pfbid0Uuy1woEMcL14PC1rqZJBuTTTeD23EYn6Ysoqj1ujXf7Ttktwe6rjYdV92bN4aaHKl)  
+[Best Project 2022: The Dream Race](https://www.facebook.com/SVNCKH/posts/pfbid0Uuy1woEMcL14PC1rqZJBuTTTeD23EYn6Ysoqj1ujXf7Ttktwe6rjYdV92bN4aaHKl)  
 Dynamite Team  
 Le Minh Quan, Nguyen Nhat Minh, Nguyen Tuong Minh & Le Van Chien
 
-![Line Hunter RC Car](image/Line Hunter RC Car)
+![Line Hunter RC Car](images/Line Hunter RC Car)
 
 Welcome to the Line Hunter RC Car repository! This project won the second prize in [Best Project 2022](https://www.facebook.com/SVNCKH/posts/pfbid0Uuy1woEMcL14PC1rqZJBuTTTeD23EYn6Ysoqj1ujXf7Ttktwe6rjYdV92bN4aaHKl) competition. 
 
